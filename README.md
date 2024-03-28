@@ -1,0 +1,2 @@
+# ReDeal
+Auto maximize signup
